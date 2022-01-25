@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lunabacilio
 - 👀 I’m interested in all related to IT world
-- 🌱 I’m currently learning DevOps role
+- 🌱 I’m currently learning more about DevOps role
